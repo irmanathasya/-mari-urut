@@ -1,5 +1,6 @@
 # -mari-urut
 PERANCANGAN DESAIN UI/UX PADA APLIKASI MARU BERBASIS MOBILE MENGGUNAKAN METODE DESIGN THINKING
+
 MaRu (Mari Urut) adalah sebuah rancangan aplikasi berbasis mobile dengan
 menggunakan metode perancangan Design Thinking. Aplikasi ini merupakan aplikasi untuk
 membantu pengguna dalam mencari pemijat secara mudah dan menggunakan jasa pemijjat
